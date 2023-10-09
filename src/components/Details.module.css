@@ -1,0 +1,16 @@
+.wrapper-div {
+  width: 80%;
+  margin: 5% auto;
+}
+
+.btn-remove {
+  background-color: red;
+  color: white;
+  padding: 0.5%;
+}
+
+.btn-add {
+  background-color: green;
+  color: white;
+  padding: 0.5%;
+}
